@@ -4,7 +4,7 @@ IT Specialist con esperienza in ambienti Microsoft (M365, Active Directory, GPO,
 
 Lavoro nel settore IT e nel tempo libero costruisco strumenti gestionali usando agenti AI — perché credo che la tecnologia debba risolvere problemi concreti, non restare solo sulla carta.
 
-🔧 Competenze
+**🔧 Competenze**
 
 - Microsoft 365, Active Directory, GPO, DNS
 - AI Agents & Prompt Engineering
@@ -13,14 +13,19 @@ Lavoro nel settore IT e nel tempo libero costruisco strumenti gestionali usando 
 
 🚀 Progetti
 
+**💼 Collaborazioni & Sviluppo Web**
+Sviluppo di Siti Web Professionali (In collaborazione con Golduck)
 
+Descrizione: Realizzazione e manutenzione di siti web aziendali, curando l'interfaccia utente, la reattività del codice e l'ottimizzazione delle prestazioni.
 
-📚 In corso di apprendimento
+Competenze applicate: HTML, CSS, gestione domini, deployment e supporto IT.
+
+**📚 In corso di apprendimento**
 
 - Python
 - Microsoft Azure (AZ-900)
 - AI Automation con Make/n8n
 
-📫 Contatti
+**📫 Contatti**
 
 - Email: Andrybottu98@gmail.com
