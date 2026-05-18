@@ -44,3 +44,4 @@ Le mie collaborazioni e i progetti aziendali sono raccolti nel repository di Gol
 ### 📫 Contatti
 
 * 📧 **Email:** [Andrybottu98@gmail.com](mailto:Andrybottu98@gmail.com)
+* 💼 **LinkedIn:** [Andrea Botturi](https://www.linkedin.com/in/andrea-botturi-0809b428a/)
