@@ -8,9 +8,28 @@ Lavoro nel settore IT e uso agenti AI avanzati per ottimizzare i flussi di lavor
 
 ### 💼 Collaborazioni & Progetti Aziendali (Golduck)
 
-* **Sviluppo di Siti Web Professionali**
-  * **Descrizione:** Realizzazione e manutenzione di siti web aziendali e piattaforme digitali, curando l'interfaccia utente, la reattività del codice e l'ottimizzazione delle prestazioni.
-  * **Competenze applicate:** HTML, CSS, JavaScript, PHP, gestione domini, deployment e supporto IT.
+Le mie collaborazioni e i progetti aziendali sono raccolti nel repository di Golduck, dove documento attività di sviluppo, manutenzione e supporto su siti web aziendali e piattaforme digitali.
+
+**⚙️ Attività principali:**
+- Realizzazione e manutenzione di siti web professionali.
+- Cura dell’interfaccia utente e della responsive experience.
+- Ottimizzazione delle prestazioni.
+- Supporto tecnico su domini, deployment e aspetti IT.
+
+---
+
+### 🛠 Competenze principali
+
+- Microsoft 365
+- Active Directory
+- Group Policy (GPO)
+- DNS
+- HTML
+- CSS
+- JavaScript
+- PHP
+- Git
+- AI tools per supporto allo sviluppo e all’automazione
 
 ---
 
