@@ -1,31 +1,27 @@
-**Ciao, sono Andrea Botturi 👋**
+# Ciao, sono Andrea Botturi 👋
 
 IT Specialist con esperienza in ambienti Microsoft (M365, Active Directory, GPO, DNS) e appassionato di intelligenza artificiale applicata a problemi reali.
 
-Lavoro nel settore IT e nel tempo libero costruisco strumenti gestionali usando agenti AI — perché credo che la tecnologia debba risolvere problemi concreti, non restare solo sulla carta.
+Lavoro nel settore IT e uso agenti AI avanzati per ottimizzare i flussi di lavoro e costruire soluzioni gestionali — perché credo che la tecnologia debba risolvere problemi concreti, non restare solo sulla carta.
 
-**🔧 Competenze**
+---
 
-- Microsoft 365, Active Directory, GPO, DNS
-- AI Agents & Prompt Engineering
-- Google Antigravity, Claude AI
-- Git, HTML, C (base)
+### 💼 Collaborazioni & Progetti Aziendali (Golduck)
 
-🚀 Progetti
+* **Sviluppo di Siti Web Professionali**
+  * **Descrizione:** Realizzazione e manutenzione di siti web aziendali e piattaforme digitali, curando l'interfaccia utente, la reattività del codice e l'ottimizzazione delle prestazioni.
+  * **Competenze applicate:** HTML, CSS, JavaScript, PHP, gestione domini, deployment e supporto IT.
 
-**💼 Collaborazioni & Sviluppo Web**
-Sviluppo di Siti Web Professionali (In collaborazione con Golduck)
+---
 
-Descrizione: Realizzazione e manutenzione di siti web aziendali, curando l'interfaccia utente, la reattività del codice e l'ottimizzazione delle prestazioni.
+### 📚 In corso di apprendimento
 
-Competenze applicate: HTML, CSS, gestione domini, deployment e supporto IT.
+* 🐍 Python (per automazione e integrazione API)
+* ☁️ Microsoft Azure (Studio per certificazione AZ-900)
+* 🤖 AI Automation con Make / n8n
 
-**📚 In corso di apprendimento**
+---
 
-- Python
-- Microsoft Azure (AZ-900)
-- AI Automation con Make/n8n
+### 📫 Contatti
 
-**📫 Contatti**
-
-- Email: Andrybottu98@gmail.com
+* 📧 **Email:** [Andrybottu98@gmail.com](mailto:Andrybottu98@gmail.com)
