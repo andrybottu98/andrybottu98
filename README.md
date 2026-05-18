@@ -1,16 +1,20 @@
-## Hi there 👋
+🔧 Competenze
 
-<!--
-**andrybottu98/andrybottu98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Microsoft 365, Active Directory, GPO, DNS
+- AI Agents & Prompt Engineering
+- Google Antigravity, Claude AI
+- Git, HTML, C (base)
 
-Here are some ideas to get you started:
+🚀 Progetti
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+📚 In corso di apprendimento
+
+- Python
+- Microsoft Azure (AZ-900)
+- AI Automation con Make/n8n
+
+📫 Contatti
+
+- Email: Andrybottu98@gmail.com
